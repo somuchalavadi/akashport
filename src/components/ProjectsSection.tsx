@@ -29,7 +29,7 @@ const projects = [
     subtitle: "Healthy Food Provider Startup",
     tags: ["Startup", "Healthy Food", "Branding"],
     description: "A healthy food provider startup focused on delivering fresh, nutritious salads and meals.",
-    link: "https://deesalad.shop",
+    link: "https://deessalad.shop",
   },
   {
     icon: Salad,
